@@ -4,7 +4,7 @@
 
 <h2>A little about me:</h2> 
 - 🔭 I’m currently working on Geographic Information Systems
-<br>- 🌱 I’m currently learning Python and other program languages
+<br>- 🌱 I'm learning Python and others program languages
 <!--- 👯 I’m looking to collaborate on -->
 <!--- 🤔 I’m looking for help with ...-->
 <br>- 💬 Ask me about everything, I'll help you 😏
