@@ -3,14 +3,13 @@
 <!--**sgoes/sgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h2>A little about me:</h2> 
-- 🔭 I’m currently working on Geographic Information System
-<br>- 🌱 I'm learning Python and others programming languages
-<!--- 👯 I’m looking to collaborate on -->
-<!--- 🤔 I’m looking for help with ...-->
-<br>- 💬 Ask me about everything, I'll help you 😏
-<!--- 📫 How to reach me: ...-->
-<!--- 😄 Pronouns: ...
-<!--- ⚡ Fun fact:-->
+🌍 Currently working as a Power Developer on Power Platform 🚀! I've been deeply involved in creating powerful solutions using Power Apps, crafting insightful Power BI reports 📊, and automating workflows to make life easier. 🛠️
+🐍 Learning: Python, JavaScript, and always expanding my toolkit with more programming languages! 💻
+💡 I’m always curious about finding new ways to analyze data and automate tasks ⚙️.
+💬 Ask me anything: I’m happy to help you, let’s solve problems together! 😏
+🎯 Goal: Tackle complex challenges and deliver creative, efficient tech solutions 💡.
+🔧 Favorite tools: Power Platform, Power BI, Power Apps, and much more!
+🌱 Passionate about nature, exploring the world on my motorbike 🏍️, and juggling 🎪.
 <br>
 <br>
 <div align="center">
