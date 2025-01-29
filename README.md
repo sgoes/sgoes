@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/sgoes/algoritmos/raw/fase_1/intro_github.svg">
+<img align="center" alt="Rafa-Js" height="600" width="350" src="https://github.com/sgoes/algoritmos/raw/fase_1/intro_github.svg">
 <div align="center">
   <a href="https://github.com/sgoes"> 
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=sgoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
