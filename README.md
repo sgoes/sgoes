@@ -6,7 +6,7 @@
 🌍 Currently working as a Power Developer on Power Platform 🚀! My expertise spans creating powerful solutions with Power Apps, crafting insightful Power BI reports 📊, and constructing advanced workspaces and lakehouses in Microsoft Fabric. 🛠️ I automate workflows to streamline operations and create pipelines for scheduled flows, enhancing efficiency and integration with native databases. 🐍 Learning: Python, JavaScript, and continuously expanding my toolkit with more programming languages! 💻 💡 I’m adept in PL-SQL and always curious about finding new ways to analyze data and automate tasks ⚙️. 💬 Ask me anything: I’m here to help and solve problems together! 😏 🎯 My goal is to tackle complex challenges and deliver creative, efficient tech solutions 💡. 🔧 Favorite tools include Power Platform, Power BI, Power Apps, and much more! 🌱 I'm passionate about nature, exploring the world on my motorbike 🏍️, and juggling 🎪.
 <br>
 <br>
-![](https://github.com/sgoes/algoritmos/raw/fase_1/intro_github.svg)
+![Introdução ao GitHub](https://github.com/sgoes/algoritmos/raw/fase_1/intro_github.svg)
 
 <div align="center">
   <a href="https://github.com/sgoes"> 
